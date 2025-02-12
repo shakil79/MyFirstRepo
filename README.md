@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakil79
-- 👀 I’m interested in e learning 
-- 🌱 I’m currently learning open edx wordpress and bitnami
-- 💞️ I’m looking to collaborate on installations and getting started
+- 👀 I’m interested in AI Graphics and video
+- 🌱 I’m currently learning easy to use AI tools
+- 💞️ I’m looking to collaborate on getting started
 - 📫 How to reach me 
 
 <!---
